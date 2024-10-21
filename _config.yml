@@ -1,7 +1,14 @@
-title: Paola Santos
+#title: Paola Santos
 #logo:
 #description: text below image
-show_downloads: true
+#show_downloads: true
 #theme: jekyll-theme-minima
 
-theme: jekyll-theme-time-machine
+#theme: jekyll-theme-time-machine
+
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+#google_analytics:
+theme: jekyll-theme-minimal
