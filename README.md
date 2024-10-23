@@ -3,6 +3,7 @@ Hello I am Paola Santos. I live in Argentina and I have been in the UX field sin
 I love this quote
 "Less is more" and for me "the investigation about what our user wants is the primal and unnegotiable its is the law
 ![logodelogo](https://pitcheers.com/svgs/LogoBlack.svg)
+
 ## Education
 UBA: Graphic Designer
 UTN: Functional Analyst
